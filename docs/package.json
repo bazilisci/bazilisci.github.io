@@ -1,0 +1,19 @@
+{
+  "name": "taborovy-handbook",
+  "version": "0.0.1",
+  "description": "Handbook pro vedoucí skautských táborů",
+  "main": "index.js",
+  "authors": {
+    "name": "Břeťa",
+    "email": "bkrejsa@skaut.cz"
+  },
+  "repository": "bazilisci/taborovy-handbook/Táborový handbook",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
