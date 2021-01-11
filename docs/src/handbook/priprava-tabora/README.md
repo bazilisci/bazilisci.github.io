@@ -1,3 +1,7 @@
+---
+title: Příprava tábora
+order: 1
+---
 
 # Příprava tábora 📋
 

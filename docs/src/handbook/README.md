@@ -1,3 +1,3 @@
 # Táborový handbook
 
-Úvodní text
+Něco  handbooku, co to je, jak funguje a kdo ho píše...

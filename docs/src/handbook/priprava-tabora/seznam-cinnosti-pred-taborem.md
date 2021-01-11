@@ -1,3 +1,6 @@
+---
+title: Seznam činností před táborem ⭐
+---
 # Seznam činností před táborem ⭐
 
 
